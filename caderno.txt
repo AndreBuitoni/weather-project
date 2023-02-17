@@ -1,0 +1,9 @@
+Anotações 14/02/2023
+-------------------------------------
+EXTENSÃO DO CHROME PARA LER JSON
+-> JSON Viewer Pro
+-> Utilizamos essa extensão para colar uma URL e obter um JSON com uma interface fácil de ler e de obter caminhos para as informações contidas no JSON.
+-------------------------------------
+O COMANDO JSON.PARSE
+-> Utilizamos esse comando no arquivo JavaScript para transformar os DADOS que obtivemos da API em um formato JSON. Anteriormente, os dados estavam em um formato hexadecimal.
+-------------------------------------
